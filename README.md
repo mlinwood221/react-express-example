@@ -12,7 +12,9 @@ APP Server
     http://localhost:9000
 
 Endpoints
+
     http://localhost:9000/items?q=notebook
+
     http://localhost:9000/items/MLA688402546
 
 APP Cliente
