@@ -1,0 +1,66 @@
+{
+	"categories": [
+		{
+		"id": "MLA1648",
+		"name": "Computación"
+		},
+		{
+		"id": "MLA430687",
+		"name": "Laptops y Accesorios"
+		},
+		{
+		"id": "MLA1652",
+		"name": "Notebooks"
+		}
+	],
+	"items": [
+		{
+		"id": "MLA777803280",
+		"title": "Cloudbook Netbook Touch 2 En 1 Ips 32gb Ssd 2gb Ram Win 10 ",
+		"price": {
+		"currency": "ARS",
+		"amount": 8999,
+		"decimals": null
+		},
+		"picture": "http://mla-s1-p.mlstatic.com/972886-MLA30583314345_052019-I.jpg",
+		"condition": "new",
+		"free_shipping": true
+		},
+		{
+		"id": "MLA688402546",
+		"title": "Notebook Gadnic 14 2gb Windows 10 Cloudbook + Funda + Mouse",
+		"price": {
+		"currency": "ARS",
+		"amount": 11999,
+		"decimals": null
+		},
+		"picture": "http://mla-s1-p.mlstatic.com/988292-MLA30516285101_052019-I.jpg",
+		"condition": "new",
+		"free_shipping": true
+		},
+		{
+		"id": "MLA737532754",
+		"title": "Notebook Intel Netbook Cloudbook 32gb Ssd 4gb Ram Windows 10",
+		"price": {
+		"currency": "ARS",
+		"amount": 12999,
+		"decimals": null
+		},
+		"picture": "http://mla-s1-p.mlstatic.com/680306-MLA30202127094_052019-I.jpg",
+		"condition": "new",
+		"free_shipping": true
+		},
+		{
+		"id": "MLA736908367",
+		"title": "Dell Notebook Chromebook 11 Intel, 4gb Ram, 16gb E",
+		"price": {
+		"currency": "ARS",
+		"amount": 13799,
+		"decimals": null
+		},
+		"picture": "http://mla-s2-p.mlstatic.com/867750-MLA27733738929_072018-I.jpg",
+		"condition": "new",
+		"free_shipping": true
+		}
+	]
+}

@@ -1,0 +1,7 @@
+.ml-breadcrumb .breadcrumb {
+	background-color: transparent;
+}
+
+.ml-breadcrumb .breadcrumb .breadcrumb-item + .breadcrumb-item::before {
+	content: ">";
+}

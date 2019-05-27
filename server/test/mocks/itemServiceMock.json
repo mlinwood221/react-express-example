@@ -1,0 +1,20 @@
+{
+"id": "MLA688402546",
+"title": "title",
+"price": {
+"currency": "ARS",
+"amount": 11999,
+"decimals": null
+},
+"picture": {
+"id": "988292-MLA30516285101_052019",
+"url": "http://mla-s1-p.mlstatic.com/988292-MLA30516285101_052019-O.jpg",
+"secure_url": "https://mla-s1-p.mlstatic.com/988292-MLA30516285101_052019-O.jpg",
+"size": "500x500",
+"max_size": "1000x1000",
+"quality": ""
+},
+"condition": "new",
+"free_shipping": true,
+"description": "text"
+}

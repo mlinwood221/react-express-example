@@ -1,0 +1,28 @@
+@import '../../globals.scss';
+
+.ml-search:focus {
+    color: #495057;
+    border-radius: 2px;
+    background-color: #fff;
+    border-color: #ced4da;
+    outline: 0;
+    box-shadow: none;
+}
+
+
+
+.navbar .btn-primary {
+    color: grey;
+    background-color: $ml-grey;
+    border-color: $ml-grey;
+}
+
+.navbar .btn-primary:hover {
+    color: grey;
+    background-color: $ml-grey;
+    border-color: $ml-grey;
+}
+
+.navbar .searchIcon {
+	height: 1em;
+}
