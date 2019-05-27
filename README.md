@@ -13,9 +13,8 @@ APP Server
 
 Endpoints
 
-    http://localhost:9000/items?q=notebook
-
-    http://localhost:9000/items/MLA688402546
+    . http://localhost:9000/items?q=notebook
+    . http://localhost:9000/items/MLA688402546
 
 APP Cliente
     http://localhost:3000
