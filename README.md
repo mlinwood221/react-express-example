@@ -1,12 +1,12 @@
-Requisitos
+Requirements
 =================
 
  - nodejs v10
 
-¿Cómo usar el entorno de development?
+Install and Run 
 =================
-1) Instalar las dependencias de los proyectos client y server con "npm install"
-2) Abrir dos terminals y estar posicionado en cada proyecto, luego ejecutar el comando "npm run start" en cada uno
+1) Install node dependencies in both directories, executing the command 'npm install'
+2) Open two terminals and execute in both directories "npm run start"
 
 APP Server
     http://localhost:9000
